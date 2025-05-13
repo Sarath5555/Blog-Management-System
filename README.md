@@ -43,3 +43,7 @@ npm install
 ```bash
 npm run dev
 ```
+
+## Postman Collections
+
+https://.postman.co/workspace/My-Workspace~cc953891-f856-4a9e-8321-453b2ef29549/request/31159252-f51a2834-9611-4d7d-af22-c7945e40a83e?action=share&creator=31159252&ctx=documentation
